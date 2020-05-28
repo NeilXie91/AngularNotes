@@ -1,0 +1,8 @@
+1. Install node.js and npm, npm is installed by default with node.js
+2. install Angular CLI, to create, build and run the application.
+    Command: "npm install -g @angular/cli"
+3. Crate a workspace and initial application. Navigate to the target location.
+    Command: "ng new app-name"
+4. Navigate to the folder of the new created project.
+5. To open the project in VS code, use command "code ."
+6. Run the appliaction with "ng serve"  
